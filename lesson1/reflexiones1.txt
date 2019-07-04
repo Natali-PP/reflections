@@ -1,0 +1,35 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    LO pude ver más facil, es solo una comparacion , no tanto ver si la lógica estaba bien
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+Poder tener ese acceso aes ainformacion y formas de realizar los algoritmos, y asi evaluar tu crecimiento o formas en que se pueden mejorar los procesos.
+SI se cambian automaticamente, es mas dificil ver atras los errores, somos humanos y nos equivocamos
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Es mas flexible, puedo manejar los tiempos segun el rpoyecto. Tambien, si se comete un error en la logica actual, se puede volver atras más facil.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Porque algunos arhivos estan interconectados, como los de html y ccs. Un cambio en un archivo implica un cambio en el otro, y para que no se rompa todo.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    con esos comandos puedo ver todos los id e informacion primaria de los commits con git log, y con git diff puedo comparar dos commits. Lo q se indica con rojo cuenta como una linea q se saco, y una verde, una q se agrego. Al principio no aparece todo, tengo q ir pulsando flecha para abajo. Cuando comparo commits, la version anterior es la q esta abajo en el git log
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Se que si hago cambios , puedo ir atras y ver en que commit meti la pata. Uno siempre se equivoca, es humano; lo importante es saber, lo más antes posible, donde esta el error.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here
+
