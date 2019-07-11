@@ -12,4 +12,7 @@ Branches: cuando se esta desarrollando una nueva feature, y se quiere probar sin
 traducir el proyecto a otro idioma, creo un branch, q esta almacenado de manera local solamente
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
-Ayuda a la hora de mergiar, es decir, cuando hay trabajo en grupo de un mism código fuente. 
+Ayuda a la hora de mergiar, es decir, cuando hay trabajo en grupo de un mism código fuente.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Harder. I don't see how anyone could work remote whitout git or GitHub.
