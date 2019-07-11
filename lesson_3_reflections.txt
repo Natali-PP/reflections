@@ -9,4 +9,7 @@ Fork: es clonar, pero especificamente en GitHub. Clono los commits y repositorio
 Clones: Clonar un repositorio es como copiar todos los datos de manera local - moverlo
 a otro lugar d ela compu - o de otro usuario, fuera del entorno de GitHub
 Branches: cuando se esta desarrollando una nueva feature, y se quiere probar sin q se rompa la version estable, si se quiere
-traducir el proyecto a otro idioma, creo un branch, q esta almacenado de manera local solamente 
+traducir el proyecto a otro idioma, creo un branch, q esta almacenado de manera local solamente
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Ayuda a la hora de mergiar, es decir, cuando hay trabajo en grupo de un mism código fuente. 
