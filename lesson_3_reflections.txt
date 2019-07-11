@@ -3,3 +3,10 @@ When would you want to use a remote repository rather than keeping all your work
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Cuando se esta trabajando en equipo, es mejor tomar la decision de en que momento se hacen pull de los cambios
 asi no hay versiones contradictorias? no estoy muy segura
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork: es clonar, pero especificamente en GitHub. Clono los commits y repositorios de otro usuario, en la nube.
+Clones: Clonar un repositorio es como copiar todos los datos de manera local - moverlo
+a otro lugar d ela compu - o de otro usuario, fuera del entorno de GitHub
+Branches: cuando se esta desarrollando una nueva feature, y se quiere probar sin q se rompa la version estable, si se quiere
+traducir el proyecto a otro idioma, creo un branch, q esta almacenado de manera local solamente 
