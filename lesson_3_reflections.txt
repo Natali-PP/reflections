@@ -16,3 +16,7 @@ Ayuda a la hora de mergiar, es decir, cuando hay trabajo en grupo de un mism có
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Harder. I don't see how anyone could work remote whitout git or GitHub.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+para ir comunicando los distintos cambios, y que otras personas puedan opinar del cambio, segun el trabajoque ellos
+estan haciendo
